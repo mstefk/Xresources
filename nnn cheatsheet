@@ -1,0 +1,16 @@
+------ + ------------------------
+  Key  |         Function
+------ + ------------------------
+   '   | Go to first non-dir file
+   +   | Toggle auto-advance
+   ,   | Mark CWD
+   -   | Go to last visited dir
+   .   | Show hidden files
+   ;   | Run a plugin by its key
+   =   | Launch a GUI application
+   >   | Export file list
+   @   | Visit start dir
+   ]   | Show command prompt
+   `   | Visit /
+   ~   | Go HOME
+------ + ------------------------
