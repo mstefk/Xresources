@@ -1,0 +1,15 @@
+napravi boot swap i particiju za ostalo i mozda /home partition
+gledaj mental outlaw video, official arch wiki install i default google sugg
+ne zaboravi da instaliras xterm inace ti nece raditi i3.
+mozda ces trebati da instaliras "pulseaudio" i "alsa-utils"
+na i3 ne zaboravi da unmute-ujes audio
+zameni i3status sa i3blocks
+podesi fontove
+instaliraj xkb-switch ali ne sa aur
+instaliraj volnoti
+instaliraj urxvt
+instaliraj xorg-xsetroot
+instaliraj feh (za i3 pozadine)
+instaliraj ffmpeg, gst-plugins-ugly, gst-libav, gsteramer, alsa-utils, gst-plugins-good, pavucontrol, pamixer, xorg-xset, clementine/audacious, keepassxc, nnn, zathura, mozda pulseaudio
+instaliraj ttf-font-awesome
+mzd instaliraj i "nomacs" "kate"
