@@ -15,7 +15,7 @@ elif [[ "${mime}" = "text/x-shellscript" ]];then
 elif [[ "${mime%/*}" = "text" ]];then
     kate "$1"
 elif [[ "${mime%/*}" = "image" ]];then
-    emacs "$1"
+    nomacs "$1"
 elif [[ "${mime%/*}" = "video" ]];then
     firefox "$1"
 elif [[ "${mime%}" = "audio/mpegapplication/octet-stream" ]];then
