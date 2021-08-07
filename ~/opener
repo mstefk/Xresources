@@ -13,7 +13,7 @@ if [[ "${1#*.}" = "m3u" ]];then
 elif [[ "${mime}" = "text/x-shellscript" ]];then
     bash -c "$1"
 elif [[ "${mime%/*}" = "text" ]];then
-    kate "$1"
+    notepadqq "$1"
 elif [[ "${mime%/*}" = "image" ]];then
     nomacs "$1"
 elif [[ "${mime%/*}" = "video" ]];then
@@ -30,3 +30,4 @@ elif [[ "${mime}" = "application/x-dosexec" ]];then
     wine "$1"
 
 fi
+
