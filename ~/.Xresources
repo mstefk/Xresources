@@ -1,11 +1,4 @@
-
 !! Colorscheme
-
-! special
-
-
-! Tango color scheme
-! ------------------
 *.foreground: #c5d3d3
 *.background: #141c21
 *cursorColor:      #86bfbf
@@ -36,18 +29,13 @@
 *color7:           #d3d7cf
 *color15:          #eeeeec
 
-!! URxvt Appearance
+!! Appearance
 *.letterSpace: 0
-*.lineSpace: 0
-*.geometry: 92x24
 *.internalBorder: 24
 *.cursorBlink: true
 *.cursorUnderline: false
-*.saveline: 2048
+!! *.saveline: 2048
 *.scrollBar: false
-*.scrollBar_right: false
-*.urgentOnBell: true
-*.depth: 24
 *.iso14755: false
 
 !! Common Keybinds for Navigations
