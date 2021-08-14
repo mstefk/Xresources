@@ -1,0 +1,5 @@
+ZA THUMNAILE U FILE PICKERU
+inst ovo
+https://aur.archlinux.org/packages/gtk3-patched-filechooser-icon-view/
+https://aur.archlinux.org/packages/glib2-patched-thumbnailer/
+da bi inst ovo drugo moras da pogledas u PKGBUILD fajlu validpgpkeys i da taj key dodas koristeci komandu "gpg --recv-keys [KEY]"
